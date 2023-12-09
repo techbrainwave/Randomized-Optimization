@@ -20,10 +20,11 @@ An optimization problem is defined by Russell and Norvig (2010) as a problem in 
 5. Flip Flop
 6. Continuous Peaks 
 
+<img src="https://github.com/techbrainwave/CS7641-ML-Fall22-02-RandomizedOptimization/blob/main/nqn.JPG" alt="n-queens" width="300"/>
 
 ## Instructions
 
-1. Go to ![repo](https://github.com/techbrainwave/CS7641-ML-Fall22-02-RandomizedOptimization)
+1. Go to ![repo](https://github.com/techbrainwave/CS7641-ML-Fall22-02-RandomizedOptimization).
 2. Click on "Code" 
 3. Click on "Download ZIP"
 4. Unzip the files
